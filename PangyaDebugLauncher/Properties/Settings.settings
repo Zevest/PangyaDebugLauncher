@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PangyaDebugLauncher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="installationPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="backgroundMode" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="imageIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="pangyaFileID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1RzcIlJvKdkX4r6pYNRnAjFmWNi4uKAq1</Value>
+    </Setting>
+    <Setting Name="patchFileID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1LtnW0qyDtNZVme-xIZ804M31pGBj-NXi</Value>
+    </Setting>
+    <Setting Name="RegisteryFileID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1m_KhPKGzNFOMfZL7PZOHlvUpMubRjZOj</Value>
+    </Setting>
+    <Setting Name="BaseURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://drive.google.com/uc?id=&lt;&lt;&lt;&lt;FILEIDHERE&gt;&gt;&gt;&gt;&amp;export=download</Value>
+    </Setting>
+    <Setting Name="DownloadBase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://drive.google.com/u/0</Value>
+    </Setting>
+    <Setting Name="IsRegInstalled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PatchFileAltLink" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.dropbox.com/s/c96imodurpkmrme/debug-patch.zip?dl=1</Value>
+    </Setting>
+    <Setting Name="clientFileAltLink" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www.dropbox.com/s/88f8jaacpatj034/PangyaUS_851.rar?dl=1</Value>
+    </Setting>
+    <Setting Name="reg32Path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\For Win-32 BIT\\regproject.reg</Value>
+    </Setting>
+    <Setting Name="reg64Path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\For Win-64 BIT\\regproject.reg</Value>
+    </Setting>
+    <Setting Name="AppFolderName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\PangyaUS_851</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

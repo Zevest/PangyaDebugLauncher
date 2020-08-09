@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PangyaDebugLauncher", "PangyaDebugLauncher\PangyaDebugLauncher.csproj", "{F74239C4-A708-46E4-B299-BAF676B4B25A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothProgressBar", "SmoothProgressBar\SmoothProgressBar.csproj", "{CE2C13C5-E14E-4A73-8823-BF27C288E12E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F74239C4-A708-46E4-B299-BAF676B4B25A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{F74239C4-A708-46E4-B299-BAF676B4B25A}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{F74239C4-A708-46E4-B299-BAF676B4B25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74239C4-A708-46E4-B299-BAF676B4B25A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2C13C5-E14E-4A73-8823-BF27C288E12E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2C13C5-E14E-4A73-8823-BF27C288E12E}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{CE2C13C5-E14E-4A73-8823-BF27C288E12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2C13C5-E14E-4A73-8823-BF27C288E12E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E9EE963-C0EE-471E-BB25-F6C004AB3B58}
+	EndGlobalSection
+EndGlobal
